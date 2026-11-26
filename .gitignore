@@ -40,9 +40,4 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# AI tools
-AGENTS.md
-CLAUDE.md
-.claude/
-.cursor/
-.github/copilot-instructions.md
+
